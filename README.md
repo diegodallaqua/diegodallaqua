@@ -46,5 +46,4 @@
 </p>
 
 ---
-> *"Transformando boas ideias em soluções reais, uma linha de código por vez."*  
-> — Diego Lucas
+> *"Transformando boas ideias em soluções reais, uma linha de código por vez."* — Diego Lucas
