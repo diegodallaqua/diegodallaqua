@@ -19,7 +19,7 @@
 - Pesquisador e Desenvolvedor **Flutter** da Rede Campo – Pesquisa Inovação e Extensão em Desenvolvimento Rural.  
 - Apaixonado por projetos com impacto real e foco em usabilidade.  
 - Especialista em interfaces intuitivas, acessíveis e responsivas, com atenção aos detalhes de UI e UX.  
-- Em constante evolução: iniciando meus estudos em **React, explorando integrações com APIs e design systems**.  
+- Em constante evolução: aprofundando meus estudos em **Flutter Web, explorando de aplicações multiplataformas e responsivas**.  
 
 ## Tech Stack
 
