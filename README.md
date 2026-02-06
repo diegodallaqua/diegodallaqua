@@ -1,49 +1,59 @@
-<h1 align="center">Hi there! I'm Diego 👋</h1>
+<h1 align="center">Hello There! I’m Diego</h1>
+<p align="center"><strong>Mobile Developer | Flutter • Data Analysis</strong></p>
+
 
 <p align="center">
-  <img src="assets/images/diego_8_bit.png" width="180" title="Diego"/>
+  Mobile Developer in training with a growing focus on Data Analysis.  
+  Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
 </p>
+
+## About Me
+
+- Undergraduate student in Computer Science at UTFPR  
+- Flutter Researcher & Developer at Rede Campo — Research, Innovation, and Extension in Rural Development  
+- Experience in mobile application development with strong focus on usability and UI/UX  
+- Background in designing intuitive, accessible, and responsive interfaces  
+- Expanding knowledge in cross-platform development with Flutter Web  
+- Currently studying Data Analysis using Python for data processing and Power BI for data visualization and insights  
+
+## Tech Stack
+
+### Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C Language"/>
+</p>
+
+### Data Analysis
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
+</p>
+
+### Design & Prototyping
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+</p>
+
+## GitHub Insights
 
 <p align="center">
-  <strong>🇧🇷 Bacharelando em Ciência da Computação @ UTFPR</strong>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodallaqua&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
+
+## Get in Touch
 
 <p align="center">
-  Desenvolvedor Mobile focado em <b>Flutter</b>, apaixonado por transformar lógica complexa em interfaces intuitivas. Atualmente pesquisador na Rede Campo, explorando a interseção entre tecnologia e desenvolvimento rural.
-</p>
-
-## 🚀 O que estou construindo
-* **Mobile & Web:** Criando aplicações multiplataforma com Flutter e Firebase.
-* **IA & Algoritmos:** Desenvolvendo simuladores de busca (A*, BFS, DFS) e automações em Python.
-* **Finanças:** Unindo programação e análise fundamentalista para automação de dados financeiros.
-
-## 🛠️ Tech Stack & Ferramentas
-<table>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>Flutter, Dart</td>
-  </tr>
-  <tr>
-    <td><b>Backend/Data</b></td>
-    <td>Firebase, Python (Scraping), C</td>
-  </tr>
-  <tr>
-    <td><b>Design/Tools</b></td>
-    <td>Figma, Git, GitHub Actions</td>
-  </tr>
-</table>
-
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegodallaqua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodallaqua&layout=compact&theme=tokyonight&langs_count=6" height="150" />
-</p>
-
-## 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-dallaqua-b55755210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dldallaquapro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dldallaquapro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diego-dallaqua-b55755210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
-> *"Transformando boas ideias em soluções reais, uma linha de código por vez."*
+
+> *If it's difficult, I'll do it. If it's impossible, give me another 5 minutes.*
