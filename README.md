@@ -37,12 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegodallaqua&show_icons=true&theme=tokyonight" />
-</p>
-
 ## Get in Touch
 
 <p align="center">
