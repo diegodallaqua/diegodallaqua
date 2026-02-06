@@ -40,7 +40,7 @@
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodallaqua&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodallaqua&layout=compact&theme=tokyonight" />
 </p>
 
 ## Get in Touch
