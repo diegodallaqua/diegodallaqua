@@ -86,4 +86,5 @@ languages:
      - "Shell"
      - "Makefile"
      - "C++"
+     - "CMake"
   max_display: 5              # Maximum number of languages to show
