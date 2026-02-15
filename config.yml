@@ -25,18 +25,13 @@ galaxy_arms:
   - name: "Mobile Development"
     color: "synapse_cyan"
     items:
-      - "Dart"
       - "Flutter"
-      - "Parse & Firebase"
+      - "Parse Server & Firebase"
   - name: "Data Analysis"
     color: "dendrite_violet"
     items:
       - "Python"
       - "Power BI"
-  - name: "UI/UX"
-    color: "axon_amber"
-    items:
-      - "Figma"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -44,15 +39,12 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "diegodallaqua/raiders-of-the-optimal-path"
-    arm: 1
-    description: "A simple game that simulate and compare classic search algorithms in an interactive visual environment using the pygame library."
   - repo: "diegodallaqua/chroma-tap"
     arm: 0
-    description: "ChromaTap is a mobile application developed in Flutter focused on demonstrating essential skills such as state management, dynamic color manipulation, and building interactive and responsive interfaces."
+    description: "ChromaTap is a mobile app built on Flutter that demonstrates state management, dynamic color manipulation, and interactive, responsive interfaces."
   - repo: "diegodallaqua/meu_doce_custo"
     arm: 0
-    description: "Meu Doce Custo is an application developed with the goal of helping pastry professionals to intuitively and dynamically calculate the real cost of their recipes."
+    description: "Meu Doce Custo is a Flutter app backed by Parse Server that helps bakers track ingredients, set prices, and calculate accurate recipe costs for better pricing and financial control."
 
 
 
@@ -73,9 +65,9 @@ theme:
 stats:
   metrics:
     - "commits"
-    - "stars"
-    - "prs"
-    - "issues"
+    #- "stars"
+    #- "prs"
+    #- "issues"
     - "repos"
 
 # Language display settings
