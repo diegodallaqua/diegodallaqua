@@ -49,7 +49,7 @@ projects:
     description: "Chroma Tap is a Flutter app showcasing state management and dynamic color interactions."
   - repo: "diegodallaqua/meu_doce_custo"
     arm: 0
-    description: "Meu Doce Custo is a Flutter app that calculates recipe costs and pricing, backed by Parse Server."
+    description: "Meu Doce Custo is a Flutter app for recipe cost and pricing, powered by Parse Server."
 
 
 
