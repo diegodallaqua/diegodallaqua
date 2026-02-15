@@ -46,10 +46,10 @@ galaxy_arms:
 projects:
   - repo: "diegodallaqua/chroma-tap"
     arm: 0
-    description: "ChromaTap is a mobile app built on Flutter that demonstrates state management, dynamic color manipulation, and interactive, responsive interfaces."
+    description: "Chroma Tap is a Flutter app showcasing state management and dynamic color interactions."
   - repo: "diegodallaqua/meu_doce_custo"
     arm: 0
-    description: "Meu Doce Custo is a Flutter app backed by Parse Server that helps bakers track ingredients, set prices, and calculate accurate recipe costs for better pricing and financial control."
+    description: "Meu Doce Custo is a Flutter app that calculates recipe costs and pricing, backed by Parse Server."
 
 
 
