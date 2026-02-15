@@ -32,6 +32,11 @@ galaxy_arms:
     items:
       - "Python"
       - "Power BI"
+  - name: "UI/UX Design"
+    color: "axon_amber"
+    items:
+      - "Figma"
+      - "Miro"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -65,10 +70,11 @@ theme:
 stats:
   metrics:
     - "commits"
-    #- "stars"
-    #- "prs"
-    #- "issues"
     - "repos"
+    - "stars"
+    - "prs"
+    - "issues"
+    
 
 # Language display settings
 languages:
