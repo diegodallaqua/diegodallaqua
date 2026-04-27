@@ -31,6 +31,8 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "Python"
+      - "R"
+      - "SQL"
       - "Power BI"
   - name: "UI/UX Design"
     color: "axon_amber"
