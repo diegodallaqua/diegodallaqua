@@ -7,10 +7,9 @@ username: diegodallaqua
 profile:
   name: "Diego Dallaqua"
   tagline: "Mobile Developer & Data Analysis Student"
-  company: "Rede Campo"
   location: "Santa Helena, PR, Brazil"
   bio: |
-   Mobile Developer in training with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact. 
+   Mobile Developer with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact. 
   philosophy: '"Commit thy way unto the LORD; trust also in him; and he shall bring it to pass." - Psalm 37:5'
 
 # Social links displayed at the bottom of the profile
@@ -26,7 +25,7 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Flutter"
-      - "Parse Server & Firebase"
+      - "Parse Server"
   - name: "Data Analysis"
     color: "dendrite_violet"
     items:
@@ -34,11 +33,6 @@ galaxy_arms:
       - "R"
       - "SQL"
       - "Power BI"
-  - name: "UI/UX Design"
-    color: "axon_amber"
-    items:
-      - "Figma"
-      - "Miro"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -46,9 +40,6 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "diegodallaqua/chroma-tap"
-    arm: 0
-    description: "Chroma Tap is a Flutter app showcasing state management and dynamic color interactions."
   - repo: "diegodallaqua/meu-doce-custo"
     arm: 0
     description: "Meu Doce Custo is a Flutter app for recipe cost and pricing, powered by Parse Server."
@@ -83,8 +74,9 @@ languages:
   exclude:                     # Languages to hide from the telemetry chart
      - "HTML"
      - "CSS"
+     - "JavaScript
      - "Shell"
      - "Makefile"
      - "C++"
      - "CMake"
-  max_display: 5              # Maximum number of languages to show
+  max_display: 4             # Maximum number of languages to show
