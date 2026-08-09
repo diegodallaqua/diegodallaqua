@@ -74,7 +74,7 @@ languages:
   exclude:                     # Languages to hide from the telemetry chart
      - "HTML"
      - "CSS"
-     - "JavaScript
+     - "JavaScript"
      - "Shell"
      - "Makefile"
      - "C++"
