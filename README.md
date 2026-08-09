@@ -33,9 +33,9 @@
 
 <br/>
 
-Mobile Developer in training with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
+Mobile Developer with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
 
-**Currently at** Rede Campo, Santa Helena, PR
+**Currently at** Santa Helena, PR
 </details>
 
 <br/>
