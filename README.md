@@ -35,7 +35,7 @@
 
 Mobile Developer with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
 
-**Currently at** Santa Helena, PR
+**Currently at** São Paulo, Brazil
 </details>
 
 <br/>
