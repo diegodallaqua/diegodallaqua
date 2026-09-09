@@ -6,11 +6,11 @@ username: diegodallaqua
 # Profile information displayed in the galaxy header
 profile:
   name: "Diego Dallaqua"
-  tagline: "Mobile Developer & Data Analysis Student"
-  location: "São Paulo, Brazil"
+  tagline: "Full Stack and Cross-Plataform Developer"
+  location: "Presidente Prudente - São Paulo, Brazil"
   bio: |
-   Mobile Developer with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact. 
-  philosophy: '"Commit thy way unto the LORD; trust also in him; and he shall bring it to pass." - Psalm 37:5'
+   Full Stack Developer with extensive knowledge in cross-platform development using Flutter. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact. 
+  philosophy: "Simplicity is not the opposite of complexity, it's what's left after you understand."
 
 # Social links displayed at the bottom of the profile
 social:
@@ -21,18 +21,18 @@ social:
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Mobile Development"
+  - name: "Cross-Plataform Development"
     color: "synapse_cyan"
     items:
       - "Flutter"
-      - "Parse Server"
-  - name: "Data Analysis"
+      - "MobX"
+  - name: "Back End Development"
     color: "dendrite_violet"
     items:
-      - "Python"
-      - "R"
+      - "Java"
+      - "Node.Js"
       - "SQL"
-      - "Power BI"
+     
 
 # Featured projects shown as constellation stars
 # Each project needs:
