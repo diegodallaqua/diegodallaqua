@@ -33,7 +33,7 @@
 
 <br/>
 
-Mobile Developer with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
+Full Stack Developer with extensive knowledge in cross-platform development using Flutter. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
 
 **Currently at** Presidente Prudente - São Paulo, Brazil
 </details>
