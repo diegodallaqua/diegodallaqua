@@ -79,4 +79,4 @@ languages:
      - "Makefile"
      - "C++"
      - "CMake"
-  max_display: 4             # Maximum number of languages to show
+  max_display: 5            # Maximum number of languages to show
