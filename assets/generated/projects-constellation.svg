@@ -150,8 +150,8 @@
     <circle cx="152.5" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">meu-doce-custo</text>
-    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Meu Doce Custo is a Flutter app</text>
-    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">for recipe cost and pricing,</text>
+    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">A Flutter app for recipe cost</text>
+    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">and pricing, powered by Parse</text>
     <rect x="50.0" y="163" width="205" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
     <text x="152.5" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Cross-Plataform Development</text>
   </g>
@@ -167,8 +167,8 @@
     <circle cx="425.0" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">rede_campo_online</text>
-    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Rede Campo Online is a Flutter</text>
-    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">website for the Rede Campo</text>
+    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">A Flutter website for the Rede</text>
+    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Campo research group.</text>
     <rect x="322.5" y="163" width="205" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
     <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Cross-Plataform Development</text>
   </g>
