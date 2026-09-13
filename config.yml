@@ -42,10 +42,10 @@ galaxy_arms:
 projects:
   - repo: "diegodallaqua/meu-doce-custo"
     arm: 0
-    description: "Meu Doce Custo is a Flutter app for recipe cost and pricing, powered by Parse Server."
+    description: "A Flutter app for recipe cost and pricing, powered by Parse Server."
   - repo: "diegodallaqua/rede_campo_online"
     arm: 0
-    description: "Rede Campo Online is a Flutter website for the Rede Campo research group."
+    description: "A Flutter website for the Rede Campo research group."
   - repo: "diegodallaqua/API-rede-campo-online"
     arm: 1
     description: "The dedicated API for the Rede Campo Online website."
