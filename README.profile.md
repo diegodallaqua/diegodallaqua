@@ -33,9 +33,9 @@
 
 <br/>
 
-Mobile Developer in training with a growing focus on Data Analysis. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
+Full Stack Developer with extensive knowledge in cross-platform development using Flutter. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact.
 
-**Currently at** Rede Campo, Santa Helena, PR
+**Currently at** Presidente Prudente, São Paulo - Brazil
 </details>
 
 <br/>

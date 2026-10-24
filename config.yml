@@ -6,7 +6,7 @@ username: diegodallaqua
 # Profile information displayed in the galaxy header
 profile:
   name: "Diego Dallaqua"
-  tagline: "Full Stack and Cross-Plataform Developer"
+  tagline: "Full Stack Developer"
   location: "Presidente Prudente - São Paulo, Brazil"
   bio: |
    Full Stack Developer with extensive knowledge in cross-platform development using Flutter. Interested in building clean, scalable, and user-centered solutions that connect technology, design, and real-world impact. 
@@ -25,14 +25,23 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Flutter"
+      - "Dart"
       - "MobX"
   - name: "Back End Development"
-    color: "dendrite_violet"
+    color: "axon_amber"
     items:
       - "Java"
+      - "Spring Boot"
       - "Node.Js"
-      - "SQL"
-     
+      - "Express"
+      - "MySQL"
+  - name: "Front End Development"
+    color: "dendrite_violet"
+    items:
+      - "Typescript"
+      - "React"
+      - "Next.js"
+      - "Tailwind CSS"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -40,15 +49,15 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "diegodallaqua/meu-doce-custo"
-    arm: 0
-    description: "A Flutter app for recipe cost and pricing, powered by Parse Server."
+  - repo: "diegodallaqua/api-pontuo"
+    arm: 1
+    description: "The dedicated JAVA API for the Pontuo website."
   - repo: "diegodallaqua/rede_campo_online"
     arm: 0
     description: "A Flutter website for the Rede Campo research group."
-  - repo: "diegodallaqua/API-rede-campo-online"
-    arm: 1
-    description: "The dedicated API for the Rede Campo Online website."
+  - repo: "diegodallaqua/vinilfolio"
+    arm: 2
+    description: "A vinyl-themed personal portfolio built with Next.js"
 
 
 
@@ -78,11 +87,8 @@ stats:
 # Language display settings
 languages:
   exclude:                     # Languages to hide from the telemetry chart
-     - "HTML"
-     - "CSS"
-     - "JavaScript"
      - "Shell"
      - "Makefile"
      - "C++"
      - "CMake"
-  max_display: 5            # Maximum number of languages to show
+  max_display: 8            # Maximum number of languages to show
